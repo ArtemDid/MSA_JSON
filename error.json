@@ -1,0 +1,11 @@
+[
+    {
+        "message1": "Tovar name is empty!"
+    },
+    {
+        "message2": "User is <= 0!"
+    },
+    {
+        "message3": "Login is invalid!"
+    }
+]
